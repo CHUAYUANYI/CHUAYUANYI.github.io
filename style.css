@@ -1,0 +1,41 @@
+
+body {
+
+}
+
+.title-container {
+  height: 40vh;
+
+  background-color: rgb(230, 230, 230);
+}
+
+.title-hello {
+  font-family: "Bakbak One"
+  font-size: 10rem;
+  font weight: 700;
+}
+
+.title-name {
+  color: rgb(230, 230, 230);
+  background color: #2f9886;
+
+  font-size: 4rem;
+  font-weight: 800;
+
+  position: relative;
+  top: -2.5rem;
+  left: 1.0rem;
+}
+
+.title-tag {
+  top: -2rem
+}
+
+.about-me-container {
+  width: 80vw;
+  height: 40vh;
+
+  margin left: 10vw;
+
+color: rgba(255, 0, 0,);
+}
